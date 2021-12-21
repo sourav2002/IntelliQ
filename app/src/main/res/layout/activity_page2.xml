@@ -540,9 +540,8 @@
                         android:text="Operation Reminder"
                         android:textStyle="bold"
                         android:layout_weight="1"
-                        android:layout_gravity="center"
                         android:textColor="@color/white"
-                        android:textSize="20sp"/>
+                        android:textSize="18sp"/>
 
                     <TextView
                         android:layout_width="wrap_content"
